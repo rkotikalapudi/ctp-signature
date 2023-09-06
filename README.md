@@ -5,4 +5,6 @@
 - Analysis of model coefficients suggests that the most robust cortical thickness predictors of pain sensitivity are the right rostral anterior cingulate gyrus, left parahippocampal gyrus, and left temporal pole. Cortical thickness in these regions was negatively correlated to pain sensitivity.
 - Our results can be considered as a proof-of-concept for the capacity of brain morphology to predict pain sensitivity, paving the way towards future multimodal brain-based biomarkers of pain.
 
+**Main findings are visualized below**
+![Predictive model for Pain](/figures/main_fig.jpg)
 
